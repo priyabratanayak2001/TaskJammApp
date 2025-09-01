@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "686848768231",
+    "project_id": "todo-4cc2f",
+    "storage_bucket": "todo-4cc2f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686848768231:android:88ffec9fcb2467eab2ca42",
+        "android_client_info": {
+          "package_name": "com.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686848768231-4v90urkd1njhsvfu49hfcm3jm9a4qleg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX-T2M6xflJkXH-KUI_j0PSjE_gcahwqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686848768231-4v90urkd1njhsvfu49hfcm3jm9a4qleg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
