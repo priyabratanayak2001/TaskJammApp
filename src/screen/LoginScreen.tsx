@@ -15,8 +15,8 @@ export default function LoginScreen() {
   const [showPassword, setShowPassword] = useState(false);
 
  const handleLogin = async () => {
-    try {
-      await auth().signInWithEmailAndPassword(email, password);
+    try {//auth for singin and singnout feature
+      await auth().signInWithEmailAndPassword(email, password);//firebase authentication
       navigation.replace("Home");
     } catch (error: any) {
       Alert.alert("Login Failed", "Email or password is invalid.");
